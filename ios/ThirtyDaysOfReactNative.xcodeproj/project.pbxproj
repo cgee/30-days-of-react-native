@@ -1030,8 +1030,9 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = fangwei.ThirtyDaysOfReactNative;
+				PRODUCT_BUNDLE_IDENTIFIER = com.cgee.ThirtyDaysOfReactNative;
 				PRODUCT_NAME = ThirtyDaysOfReactNative;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
@@ -1048,8 +1049,9 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = fangwei.ThirtyDaysOfReactNative;
+				PRODUCT_BUNDLE_IDENTIFIER = com.cgee.ThirtyDaysOfReactNative;
 				PRODUCT_NAME = ThirtyDaysOfReactNative;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
